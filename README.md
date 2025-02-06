@@ -52,7 +52,7 @@ Une application de streaming permettant aux utilisateurs d'accéder à un catalo
 - **Frontend Mobile** : React Native, Expo
 
 ## 📄 Installation
-1. Cloner le dépôt : `git clone https://github.com/votre-utilisateur/votre-projet.git`
+1. Cloner le dépôt : `git clone https://github.com/sanaahamliri/StreamNova.git`
 2. Installer les dépendances backend : `cd backend && npm install`
 3. Installer les dépendances frontend : `cd frontend && npm install`
 4. Lancer le backend : `npm run start`
